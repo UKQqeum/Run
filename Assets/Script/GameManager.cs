@@ -56,4 +56,4 @@ public class GameManager : MonoBehaviour
     {
         SceneManager.LoadScene("Title");
     }
-}
+}// 게임 완성
